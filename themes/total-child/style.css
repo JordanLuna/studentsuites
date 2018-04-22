@@ -771,6 +771,7 @@ input[type="radio"], input[type="checkbox"]{
 
 .ht-main-header {
 	background: #eaeaea;
+	opacity: .5;
 	padding: 1.75em 0;
 	text-align: center;
 }	
