@@ -51,7 +51,7 @@
 		<div id="ht-bottom-footer">
 			<div class="ht-container">
 				<div class="ht-site-info">
-                    <p>Student Suites &copy; 2018</p>
+                    <p style="color: #fff; border: 1px solid white;">Student Suites &copy; 2018</p>
 				</div><!-- #site-info -->
 			</div>
 		</div>
